@@ -15,8 +15,7 @@ Built with **Google Gemini API** & **Streamlit**, this app brings the **flavors 
 ---
 
 ## **📸 Screenshot**
-
-
+![Image](https://github.com/user-attachments/assets/b1fd13e3-ccd1-48f3-8a24-640e717fbc50)
 ---
 
 ## **🔧 Installation & Setup**
